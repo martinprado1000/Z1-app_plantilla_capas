@@ -1,0 +1,1 @@
+Aplicacion con sistema de capas, conexion a mongoAtlas basica.
